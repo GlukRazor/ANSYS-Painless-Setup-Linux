@@ -1,1 +1,1 @@
-# ANSYS-Painless-Setup-linux-
+# ANSYS Painless Setup - Linux version
